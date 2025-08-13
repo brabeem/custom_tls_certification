@@ -1,6 +1,6 @@
 # TLS Handshaking System for Mobile-ZC Device Communication
 
-A complete TLS-based secure communication system implementing certificate-based authentication between mobile clients and ZC (Zero Configuration) devices.
+A Dummy TLS-based secure communication system demonstration implementing certificate-based authentication between mobile clients and ZC (Zero Configuration) devices.
 
 ## 🏗️ Architecture Overview
 
